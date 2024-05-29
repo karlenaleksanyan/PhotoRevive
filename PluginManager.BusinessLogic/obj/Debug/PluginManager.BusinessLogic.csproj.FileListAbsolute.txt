@@ -1,0 +1,11 @@
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.BusinessLogic\obj\Debug\PluginManager.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.BusinessLogic\obj\Debug\PluginManager.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.BusinessLogic\bin\Debug\PluginManager.BusinessLogic.dll
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.BusinessLogic\bin\Debug\PluginManager.BusinessLogic.pdb
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.BusinessLogic\bin\Debug\PhotoRevive.Models.dll
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.BusinessLogic\bin\Debug\PluginManager.Abstraction.dll
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.BusinessLogic\bin\Debug\PluginManager.Abstraction.pdb
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.BusinessLogic\bin\Debug\PhotoRevive.Models.pdb
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.BusinessLogic\obj\Debug\PluginMa.6A677152.Up2Date
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.BusinessLogic\obj\Debug\PluginManager.BusinessLogic.dll
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.BusinessLogic\obj\Debug\PluginManager.BusinessLogic.pdb

@@ -1,0 +1,6 @@
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.DBMap\bin\Debug\PluginManager.DBMap.dll
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.DBMap\bin\Debug\PluginManager.DBMap.pdb
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.DBMap\obj\Debug\PluginManager.DBMap.csproj.AssemblyReference.cache
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.DBMap\obj\Debug\PluginManager.DBMap.csproj.CoreCompileInputs.cache
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.DBMap\obj\Debug\PluginManager.DBMap.dll
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.DBMap\obj\Debug\PluginManager.DBMap.pdb

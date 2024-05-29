@@ -1,0 +1,6 @@
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Repository\bin\Debug\PhotoRevive.Repository.dll
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Repository\bin\Debug\PhotoRevive.Repository.pdb
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Repository\obj\Debug\PluginManager.Repository.csproj.AssemblyReference.cache
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Repository\obj\Debug\PluginManager.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Repository\obj\Debug\PhotoRevive.Repository.dll
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Repository\obj\Debug\PhotoRevive.Repository.pdb

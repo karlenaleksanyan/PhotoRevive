@@ -1,0 +1,12 @@
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Models\bin\Debug\PhotoRevive.Models.dll
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Models\bin\Debug\PhotoRevive.Models.pdb
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Models\obj\Debug\PluginManager.Models.csproj.AssemblyReference.cache
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Models\obj\Debug\PluginManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Models\obj\Debug\PhotoRevive.Models.dll
+C:\Users\Karlen Aleksanyan\Desktop\PhotoRevive\PluginManager.Models\obj\Debug\PhotoRevive.Models.pdb
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.Models\bin\Debug\PhotoRevive.Models.dll
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.Models\bin\Debug\PhotoRevive.Models.pdb
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.Models\obj\Debug\PluginManager.Models.csproj.AssemblyReference.cache
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.Models\obj\Debug\PluginManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.Models\obj\Debug\PhotoRevive.Models.dll
+C:\Users\Karlen Aleksanyan\Desktop\PluginManager\PluginManager.Models\obj\Debug\PhotoRevive.Models.pdb
